@@ -23,7 +23,7 @@ def set_bg_from_image(image_path):
     )
 
 # ✅ Set image as background (replace with your actual image path if needed)
-set_bg_from_image("bg.jpeg")  # Your uploaded image
+set_bg_from_image("assets/bg.jpeg")  # Your uploaded image
 
 # ------------ Glassmorphic Style ------------
 st.markdown("""
